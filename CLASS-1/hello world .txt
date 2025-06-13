@@ -1,0 +1,41 @@
+F:\JAVA FULL COURCE\CLASS-1>javac Test.java
+Test.java:1: error: class, interface, enum, or record expected
+public Test{
+       ^
+Test.java:2: error: implicitly declared classes are a preview feature and are disabled by default.
+    public static void main(String []args){
+                  ^
+  (use --enable-preview to enable implicitly declared classes)
+Test.java:4: error: ')' or ',' expected
+        System.out.println(x:"hello world");
+                            ^
+Test.java:8: error: class, interface, enum, or record expected
+}
+^
+4 errors
+
+F:\JAVA FULL COURCE\CLASS-1>javac Test.java
+Test.java:1: error: class, interface, enum, or record expected
+public Test{
+       ^
+Test.java:2: error: implicitly declared classes are a preview feature and are disabled by default.
+    public static void main(String []args){
+                  ^
+  (use --enable-preview to enable implicitly declared classes)
+Test.java:8: error: class, interface, enum, or record expected
+}
+^
+3 errors
+
+F:\JAVA FULL COURCE\CLASS-1>javac Test.java
+
+F:\JAVA FULL COURCE\CLASS-1>java Test.java
+hello world
+
+F:\JAVA FULL COURCE\CLASS-1>java test.java
+hello world
+
+F:\JAVA FULL COURCE\CLASS-1>java test.java
+Bimal Chunara
+
+F:\JAVA FULL COURCE\CLASS-1>
