@@ -1,10 +1,11 @@
 public class five{
     public static void main(String[] args) {
         for(int i=1;i<=5;i++){
-            for(j=1;j<=i;j++){
+            for(int j=1;j<=i;j++){
 
             }
-            System.out.println("x");
+            System.out.println("*");
         }
+        System.out.println();
     }
 }
